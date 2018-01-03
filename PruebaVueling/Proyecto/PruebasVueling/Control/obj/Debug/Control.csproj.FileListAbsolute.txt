@@ -1,0 +1,8 @@
+c:\users\usuario\source\repos\PruebasVueling\Control\bin\Debug\Control.dll
+c:\users\usuario\source\repos\PruebasVueling\Control\bin\Debug\Control.pdb
+c:\users\usuario\source\repos\PruebasVueling\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\PruebasVueling\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\PruebasVueling\Control\obj\Debug\Control.dll
+c:\users\usuario\source\repos\PruebasVueling\Control\obj\Debug\Control.pdb
+c:\users\usuario\source\repos\PruebasVueling\Control\bin\Debug\log4net.dll
+c:\users\usuario\source\repos\PruebasVueling\Control\bin\Debug\log4net.xml

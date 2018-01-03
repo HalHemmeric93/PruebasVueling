@@ -1,0 +1,13 @@
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\PruebasVueling.dll.config
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\PruebasVueling.dll
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\PruebasVueling.pdb
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\obj\Debug\PruebasVueling.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\obj\Debug\PruebasVueling.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\obj\Debug\PruebasVueling.dll
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\obj\Debug\PruebasVueling.pdb
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\SimpleInjector.dll
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\SimpleInjector.xml
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\Control.dll
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\Control.pdb
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\log4net.dll
+c:\users\usuario\source\repos\PruebasVueling\PruebasVueling\bin\log4net.xml
